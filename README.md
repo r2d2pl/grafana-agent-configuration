@@ -1,7 +1,7 @@
 # grafana-agent-configuration
 Configuration file for grafana-agent [integrations](https://grafana.com/docs/grafana-cloud/data-configuration/integrations) to the [Grafana Cloud](https://grafana.com/products/cloud/).
 
-Sample configuration file for [Grafana Agent](https://grafana.com/docs/grafana-cloud/data-configuration/agent/) on a single machine including the following [integrations](https://grafana.com/docs/grafana-cloud/data-configuration/integrations/integration-reference/): Linux Node, Apache HTTP server and Docker.
+Sample configuration file for [Grafana Agent](https://grafana.com/docs/grafana-cloud/monitor-infrastructure/integrations/integration-reference/integration-linux-node/) on a single machine including the following [integrations](https://grafana.com/docs/grafana-cloud/data-configuration/integrations/integration-reference/): Linux Server (Node), Apache HTTP server and Docker.
 
 Note the need for prerequisites for specific integrations :beer:.
 
